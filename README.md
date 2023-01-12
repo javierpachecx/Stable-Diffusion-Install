@@ -1,6 +1,8 @@
 # Stable Diffusion Local Installation
 ### Simple guide - [github.com/javierpachecx](https://github.com/javierpachecx)
 ###### Stable guide for Windows 10 (64bit)
+![cover](img.jpg)
+
 ---
 ## Installers
 1. Install <a href="https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe" target=_blank>Python 3.10.6</a>
