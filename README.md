@@ -13,6 +13,7 @@
     - Uncheck "**Windows Explorer integration**"
     - *Continue with "Next" until the end.*
     - Uncheck "**View Release Notes**"
+    - Go to "**C:\Users\____\AppData\Local\Microsoft\WindowsApps**" and remove everything about python.
 3. Install <a href="https://www.7-zip.org/a/7z2201-x64.exe" target=_blank>7zip</a>
     - Click on "**Install**"
 ---
